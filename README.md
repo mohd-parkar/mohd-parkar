@@ -75,7 +75,7 @@
     <td align="center">
       <img height="140" src="https://i.imgflip.com/b33vc8.gif" alt="me and the team performing a ritual to make the code work" />
       <br />
-      <sub><code>console.log("summoning working code 🕯️ (no tests were harmed)")</code></sub>
+      <sub><code>npm run pray</code></sub>
     </td>
   </tr>
 </table>
@@ -91,10 +91,6 @@
 ###
 
 <br clear="both">
-
-<h6 data-importer="text" align="right">"Code. Coffee. console.log('why is this working?')."</h6>
-
-###
 
 <!--
 **mohd-parkar/mohd-parkar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
