@@ -1,5 +1,9 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&color=193549&text=Building%20things%20for%20the%20fun,%20one%20deploy%20at%20a%20time%20%7C&fontSize=16&fontColor=8B949E&fontAlign=50&fontAlignY=85" alt="Building things for the fun, one deploy at a time"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+</div>
+
+<div align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&duration=3000&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&height=40&lines=Building+things+for+the+fun+%F0%9F%9B%A0%EF%B8%8F;One+deploy+at+a+time+%F0%9F%9A%80;Turning+coffee+into+code+%E2%98%95" alt="Building things for the fun, one deploy at a time" />
 </div>
 
 ###
