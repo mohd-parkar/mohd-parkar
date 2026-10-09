@@ -70,17 +70,18 @@
 
 ###
 
+<h5 data-importer="text" align="left">"Since you survived the Space Invaders above 👾... meet the human behind those commits."</h5>
+
 <table align="right">
   <tr>
-    <td align="center">
+    <td align="center" valign="middle" height="228">
       <img height="140" src="https://i.imgflip.com/b33vc8.gif" alt="me and the team performing a ritual to make the code work" />
       <br />
       <sub><code>npm run pray</code></sub>
     </td>
   </tr>
 </table>
-
-<h5 data-importer="text" align="left">"Since you survived the Space Invaders above 👾... meet the human behind those commits."</h5>
+<img align="right" width="24" height="1" />
 
 ```js
 const mohammed = {
