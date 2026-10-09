@@ -70,7 +70,15 @@
 
 ###
 
-<img data-importer="image" align="right" height="100" src="https://i.imgflip.com/b33yhx.jpg"  />
+<table align="right">
+  <tr>
+    <td align="center">
+      <img height="140" src="https://i.imgflip.com/b33vc8.gif" alt="me and the team performing a ritual to make the code work" />
+      <br />
+      <sub><code>console.log("summoning working code 🕯️ (no tests were harmed)")</code></sub>
+    </td>
+  </tr>
+</table>
 
 ###
 
