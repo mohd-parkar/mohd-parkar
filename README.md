@@ -57,7 +57,7 @@
   <img src="https://raw.githubusercontent.com/mohd-parkar/mohd-parkar/languages-output/languages.svg" height="150" alt="languages graph" />
 </div>
 
-<h3 align="center"><code>// about me</code></h3>
+<h3 align="center"><code>// About me</code></h3>
 
 <h5 data-importer="text" align="left">"Since you survived the Space Invaders above 👾... meet the human behind those commits."</h5>
 
