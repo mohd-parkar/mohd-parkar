@@ -1,8 +1,6 @@
 <div data-importer="border">
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&fontSize=70&fontColor=FFFFFF&fontAlign=50&fontAlignY=50&stroke=-&descSize=20&descAlign=50&descAlignY=50&theme=cobalt"  />
+  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=100&section=header&reversal=false&color=193549&text=Building%20things%20for%20the%20fun,%20one%20deploy%20at%20a%20time%20%7C&fontSize=16&fontColor=8B949E&fontAlign=50&fontAlignY=85" alt="Building things for the fun, one deploy at a time"  />
 </div>
-
-<h6 data-importer="text" align="center">Building things for the fun , one deloy at a time |</h6>
 
 ###
 
