@@ -80,15 +80,20 @@
   </tr>
 </table>
 
-###
+<h5 data-importer="text" align="left">"Since you survived the Space Invaders above 👾... meet the human behind those commits."</h5>
 
-<h5 data-importer="text" align="left">"Since you survived the Space Invaders above 👾... "</h5>
+```js
+const mohammed = {
+  name: "Mohammed Parkar",
+  role: "Software Developer",
+  stack: ["JavaScript", "React", "Node.js", "Java"],
+  fuel: "coffee ☕ + Stack Overflow",
+  bugsFixed: 99,
+  bugsCreated: 100, // the extra one is a feature
+};
 
-###
-
-<h5 data-importer="text" align="left">I am Mohammed Parkar - // TODO : Will Write Some More Things About Me Sometime Later</h5>
-
-###
+// TODO: write a better bio (scheduled for: never)
+```
 
 <br clear="both">
 
