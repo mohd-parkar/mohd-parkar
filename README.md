@@ -81,7 +81,7 @@
     </td>
   </tr>
 </table>
-<img align="right" width="24" height="1" />
+<img align="right" width="24" height="1" src="assets/spacer.png" alt="" />
 
 ```js
 const mohammed = {
