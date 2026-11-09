@@ -63,8 +63,8 @@
 
 <table align="right">
   <tr>
-    <td align="center" valign="middle" height="290">
-      <img height="200" src="https://i.imgflip.com/b5gix6.jpg" alt="meme about git commit messages" />
+    <td align="center" valign="middle" height="260">
+      <img height="170" src="https://i.imgflip.com/b5gix6.jpg" alt="meme about git commit messages" />
       <br />
       <code>git commit -m ".."</code>
     </td>
