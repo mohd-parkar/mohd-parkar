@@ -64,9 +64,9 @@
 <table align="right">
   <tr>
     <td align="center" valign="middle" height="228">
-      <img height="140" src="https://i.imgflip.com/b33vc8.gif" alt="me and the team performing a ritual to make the code work" />
+      <img height="140" src="https://i.imgflip.com/b5gix6.jpg" alt="meme about git commit messages" />
       <br />
-      <sub><code>npm run pray</code></sub>
+      <sub><code>git commit -m ".."</code></sub>
     </td>
   </tr>
 </table>
